@@ -7,5 +7,6 @@ test('SauceDemo', async ({ loginPage}) => {
     user.user9.name,
     user.password
   );
+  console.log(sethu);
 
 })
